@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 
 # Anonim Chat — Hevorix
 
